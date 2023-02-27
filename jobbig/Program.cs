@@ -47,3 +47,17 @@ void PrintMasive(string [] mas)
 }
 
 
+void PrintMassi(string [] massi)
+{
+Console.WriteLine("Исходный массив:");
+PrintMasive(massi);
+string [] outputmas = NewString(massi);
+Console.WriteLine("Результирующий массив имеющий строки меньше либо равно 3 символам.");
+PrintMasive(outputmas);
+Console.WriteLine();
+}
+PrintMassi(masive1);
+PrintMassi(masive2);
+PrintMassi(masive3);
+
+
