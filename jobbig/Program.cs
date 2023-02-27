@@ -28,5 +28,22 @@ string [] NewString(string [] array)
     return result;
     } 
 
+void PrintMasive(string [] mas)
+{
+    if (mas.Length == 0)
+    {
+        Console.WriteLine("Массив пустой");
+    }
+    else
+    {
+        int count = mas.Length;
+        for (int i =0;i < count;i++)
+        {
+            Console.Write($" {mas[i]}");
+        }
+    }
+    Console.WriteLine();
+    
+}
 
 
