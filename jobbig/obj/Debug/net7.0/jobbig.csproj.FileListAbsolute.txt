@@ -1,0 +1,15 @@
+E:\GeekBrains\firstbigjob\jobbig\bin\Debug\net7.0\jobbig.exe
+E:\GeekBrains\firstbigjob\jobbig\bin\Debug\net7.0\jobbig.deps.json
+E:\GeekBrains\firstbigjob\jobbig\bin\Debug\net7.0\jobbig.runtimeconfig.json
+E:\GeekBrains\firstbigjob\jobbig\bin\Debug\net7.0\jobbig.dll
+E:\GeekBrains\firstbigjob\jobbig\bin\Debug\net7.0\jobbig.pdb
+E:\GeekBrains\firstbigjob\jobbig\obj\Debug\net7.0\jobbig.csproj.AssemblyReference.cache
+E:\GeekBrains\firstbigjob\jobbig\obj\Debug\net7.0\jobbig.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\firstbigjob\jobbig\obj\Debug\net7.0\jobbig.AssemblyInfoInputs.cache
+E:\GeekBrains\firstbigjob\jobbig\obj\Debug\net7.0\jobbig.AssemblyInfo.cs
+E:\GeekBrains\firstbigjob\jobbig\obj\Debug\net7.0\jobbig.csproj.CoreCompileInputs.cache
+E:\GeekBrains\firstbigjob\jobbig\obj\Debug\net7.0\jobbig.dll
+E:\GeekBrains\firstbigjob\jobbig\obj\Debug\net7.0\refint\jobbig.dll
+E:\GeekBrains\firstbigjob\jobbig\obj\Debug\net7.0\jobbig.pdb
+E:\GeekBrains\firstbigjob\jobbig\obj\Debug\net7.0\jobbig.genruntimeconfig.cache
+E:\GeekBrains\firstbigjob\jobbig\obj\Debug\net7.0\ref\jobbig.dll

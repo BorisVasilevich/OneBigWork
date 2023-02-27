@@ -9,6 +9,8 @@
 string[] masive1 = {"Hello", "2", "world", ":-)"};
 string[] masive2 = {"1234", "1567", "-2", "computer science"};
 string[] masive3 = {"Russia", "Denmark", "Kazan"};
+string[] masive4 = {"Leo", "Max", "Boris", "Victor", "Kate", "Bob"};
+
 
 string [] NewString(string [] array)
 {
@@ -59,5 +61,6 @@ Console.WriteLine();
 PrintMassi(masive1);
 PrintMassi(masive2);
 PrintMassi(masive3);
+PrintMassi(masive4);
 
 
